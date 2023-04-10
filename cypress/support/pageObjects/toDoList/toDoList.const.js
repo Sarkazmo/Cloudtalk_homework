@@ -1,0 +1,4 @@
+export const ToDoPageTestData = {
+    TODO_ITEM_ONE: "buy some cheese",
+    TODO_ITEM_TWO: "feed the cat",
+}
